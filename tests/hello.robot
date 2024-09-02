@@ -5,8 +5,9 @@ Resource    ..${/}resources${/}hello.resource
 Hello There
     Hello
 
-Another Test Case
-    Okay
 
-Test Keyword
-    Test Log
+*** Keywords ***
+Hello
+    Log    Hello World
+    Log    Test log
+    Log    Turos test!
