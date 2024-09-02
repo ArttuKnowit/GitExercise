@@ -7,3 +7,4 @@ Hello There
 Hello
     Log    Hello World
     Log    Test log
+    Log    Turos test!
