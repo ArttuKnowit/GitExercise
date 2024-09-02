@@ -6,3 +6,4 @@ Hello There
 *** Keywords ***
 Hello
     Log    Hello World
+    Log    Test log
