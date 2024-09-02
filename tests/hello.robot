@@ -1,5 +1,5 @@
 *** Settings ***
-Resource    hello.resource
+Resource    ..${/}resources${/}hello.resource
 
 *** Test Cases ***
 Hello There
