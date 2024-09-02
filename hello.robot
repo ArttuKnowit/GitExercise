@@ -13,6 +13,6 @@ Hello
 Okay
     Log    Okay yes hello
 
-Test log
+Test Log
     Log    Test log
     Log    Turos test!
