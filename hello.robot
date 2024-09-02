@@ -8,3 +8,4 @@ Hello
     Log    Hello World
     Log    Test log
     Log    Turos test!
+    Log    Laura testaa
