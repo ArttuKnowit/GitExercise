@@ -1,13 +1,10 @@
-*** Settings ***
-Resource    hello.resource
-
-*** Test Cases ***
-Hello There
-    Hello
-
-
 *** Keywords ***
 Hello
     Log    Hello World
+
+Okay
+    Log    Okay yes hello
+
+Test Log
     Log    Test log
     Log    Turos test!
