@@ -1,3 +1,8 @@
 *** Test Cases ***
 Hello There
-    Log    Hello World!
+    Hello
+
+
+*** Keywords ***
+Hello
+    Log    Hello World
