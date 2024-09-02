@@ -12,3 +12,7 @@ Hello
 
 Okay
     Log    Okay yes hello
+
+Test log
+    Log    Test log
+
